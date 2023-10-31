@@ -1,9 +1,9 @@
 <?php
     //DATOS PARA LA CONEXION A LA BASE DE DATOS
-    $host = 'localhost';
-    $usuario = 'root';
-    $password = '';
-    $base_de_datos = 'visitasjesuitas';
+    $host = '2daw.esvirgua.com';
+    $usuario = 'user2daw_04';
+    $password = '1Z~%4D+*9BTc';
+    $base_de_datos = 'user2daw_BD2-04';
     
     //CREAR LA CONEXION
     $conexion = new mysqli($host, $usuario, $password, $base_de_datos);
