@@ -15,7 +15,6 @@
             echo "<h3>CAMBIOS REALIZADOS</h3><br>";
             $conexion->close();
             echo '<a href="../index.html">Volver</a><br>';
-            echo '<a href="../../index.html">Volver al menú</a>';
         ?>
     </body>
 </html>
